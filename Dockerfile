@@ -1,5 +1,5 @@
 # Pull base image 
-FROM baseImage tomcat:8-jre8 
+FROM tomcat:8-jre8 
 
 # Maintainer 
 LABEL MAINTAINER: hwome@yahoo.fr 
